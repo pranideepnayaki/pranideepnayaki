@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hello, I'm Pranideep Reddy Nayaki 👋
 
-<!--
-**pranideepnayaki/pranideepnayaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Technology Enthusiast
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Pranideep Reddy Nayaki, a Software Developer with a Master of Science in Computer Science from Kent State University. Experienced and results-driven Full-Stack Developer with 2.5 years of expertise in designing, developing, and delivering user-centric web applications. Demonstrated ability to build high-performing web applications and e-commerce platforms, significantly contributing to $5M in annual revenue. Proficient in Java, Spring Boot, JavaScript, and React, with robust experience in Agile methodologies and CI/CD pipelines. Strong background in MySQL and recognized for analytical problem-solving skills. Proven track record of collaborating with cross-functional teams to deliver scalable and robust solutions that exceed client expectations.
+
+For a more detailed overview of my professional journey, please feel free to download my resume [here](https://drive.google.com/file/d/15kmV99vW3_LrCFdaRutQnwgSbOtnuJeF/view).
+
+## My Recent Projects
+
+Here are some of the projects I've worked on that showcase my skills and capabilities:
+
+ ### Recipe Finder Application
+
+- **Description**: Developed a dynamic recipe app with responsive design. Users can search for recipes, view detailed instructions, adjust servings, and bookmark favorites. Integrated an external API for recipe data. This project showcases my skills in front-end development, API integration, and creating user-friendly applications.
+- **Technologies**: SQL, HTML, CSS, JavaScript
+
+### Plant Disease Detection
+
+- **Description**: Project focuses on using machine learning to detect diseases in plants. By analyzing images of plant leaves and extracting key features like color and texture, we train a model to classify plants as healthy or diseased. This technology enables early detection, empowering farmers to take timely actions and optimize agricultural productivity.
+- **Tech Stack**: ML, Python, JavaScript, Flask
+
+### Minimal College Website
+
+- **Description**: Developed a dynamic and responsive college website. It includes sections for home, about, academics, admissions, and contact, providing a comprehensive overview of the college.
+- **Technologies**: HTML, CSS, MySQL, JavaScript
+
+## Technical Skills
+
+- **Programming Languages**: Java, C/C++, SQL, JavaScript, HTML5/CSS3
+- **Frameworks**: ReactJS, Flask, Spring Boot
+- **Testing and Quality Assurance**: JUnit, Postman, Swagger, Mockito, Unit Testing
+- **Developer Tools**: Git, Docker, VS Code, Visual Studio, Google Colab, IntelliJ, Eclipse
+- **Operating System**: MacOS, Windows, Linux
+- **Software Development Methodologies**: Agile, Scrum, Waterfall, SDLC
+- **Other Skills**: JIRA, Data Structures and Algorithms, Problem-Solving and Critical Thinking
+- **Soft Skills:**: Communication and Presentation Skills, Code Review and Quality Assurance
+
+## Contact Me
+
+Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.pranideepreddy1999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranideepreddynayaki/)
+
+Thank you for visiting my GitHub portfolio!
