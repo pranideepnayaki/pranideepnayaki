@@ -12,20 +12,20 @@ For a more detailed overview of my professional journey, please feel free to dow
 
 Here are some of the projects I've worked on that showcase my skills and capabilities:
 
- ### Recipe Finder Application
+### [Recipe Finder Application](https://github.com/pranideepnayaki/forkify-food-app)
 
 - **Description**: Developed a dynamic recipe app with responsive design. Users can search for recipes, view detailed instructions, adjust servings, and bookmark favorites. Integrated an external API for recipe data. This project showcases my skills in front-end development, API integration, and creating user-friendly applications.
 - **Technologies**: SQL, HTML, CSS, JavaScript
 
-### Plant Disease Detection
+### [Plant Disease Detection](https://github.com/pranideepnayaki/Plant_Disease_Detection)
 
 - **Description**: Project focuses on using machine learning to detect diseases in plants. By analyzing images of plant leaves and extracting key features like color and texture, we train a model to classify plants as healthy or diseased. This technology enables early detection, empowering farmers to take timely actions and optimize agricultural productivity.
 - **Tech Stack**: ML, Python, JavaScript, Flask
 
-### Minimal College Website
+### [College Website](https://github.com/pranideepnayaki/College_Website)
 
 - **Description**: Developed a dynamic and responsive college website. It includes sections for home, about, academics, admissions, and contact, providing a comprehensive overview of the college.
-- **Technologies**: HTML, CSS, MySQL, JavaScript
+- **Technologies**: HTML, PHP, CSS, JavaScript
 
 ## Technical Skills
 
