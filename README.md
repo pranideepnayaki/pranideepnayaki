@@ -17,6 +17,11 @@ Here are some of the projects I've worked on that showcase my skills and capabil
 - **Description**: Developed a dynamic recipe app with responsive design. Users can search for recipes, view detailed instructions, adjust servings, and bookmark favorites. Integrated an external API for recipe data. This project showcases my skills in front-end development, API integration, and creating user-friendly applications.
 - **Technologies**: SQL, HTML, CSS, JavaScript
 
+### [Movie Recommendation](https://github.com/pranideepnayaki/Movie_Recommendation)
+
+- **Description**: Developed a movie recommendation web app that allows users to select genres and get random movie suggestions. Features include genre-based search, movie details display, and like/dislike functionality. The app integrates with The Movie Database (TMDb) API to fetch and display movie data. This project highlights skills in front-end development, API integration, and creating interactive user experiences.
+- **Technologies**: API, HTML, CSS, JavaScript
+
 ### [Plant Disease Detection](https://github.com/pranideepnayaki/Plant_Disease_Detection)
 
 - **Description**: Project focuses on using machine learning to detect diseases in plants. By analyzing images of plant leaves and extracting key features like color and texture, we train a model to classify plants as healthy or diseased. This technology enables early detection, empowering farmers to take timely actions and optimize agricultural productivity.
