@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am Pranideep Reddy Nayaki, a Software Developer with a Master of Science in Computer Science from Kent State University. Experienced and results-driven Full-Stack Developer with 2.5 years of expertise in designing, developing, and delivering user-centric web applications. Demonstrated ability to build high-performing web applications and e-commerce platforms, significantly contributing to $5M in annual revenue. Proficient in Java, Spring Boot, JavaScript, and React, with robust experience in Agile methodologies and CI/CD pipelines. Strong background in MySQL and recognized for analytical problem-solving skills. Proven track record of collaborating with cross-functional teams to deliver scalable and robust solutions that exceed client expectations.
+I am Pranideep Reddy Nayaki, a Software Developer with a Master of Science in Computer Science from Kent State University. Experienced and results-driven Full-Stack Developer with 3 years of expertise in designing, developing, and delivering user-centric web applications. Demonstrated ability to build high-performing web applications and e-commerce platforms, significantly contributing to $5M in annual revenue. Proficient in Java, Spring Boot, JavaScript, and React, with robust experience in Agile methodologies and CI/CD pipelines. Strong background in MySQL and recognized for analytical problem-solving skills. Proven track record of collaborating with cross-functional teams to deliver scalable and robust solutions that exceed client expectations.
 
 For a more detailed overview of my professional journey, please feel free to download my resume [here](https://drive.google.com/file/d/15kmV99vW3_LrCFdaRutQnwgSbOtnuJeF/view).
 
@@ -39,10 +39,10 @@ Here are some of the projects I've worked on that showcase my skills and capabil
 
 ## Technical Skills
 
-- **Programming Languages**: Java, C/C++, SQL, JavaScript, HTML5/CSS3
+- **Programming Languages**: Java, Python, C/C++, SQL, JavaScript, HTML5/CSS3
 - **Frameworks**: ReactJS, Flask, Spring Boot
 - **Testing and Quality Assurance**: JUnit, Postman, Swagger, Mockito, Unit Testing
-- **Developer Tools**: Git, Docker, VS Code, Visual Studio, Google Colab, IntelliJ, Eclipse
+- **Developer Tools**: Git, Docker, VS Code, Visual Studio, Google Colab, IntelliJ, Eclipse, Wix Studio
 - **Operating System**: MacOS, Windows, Linux
 - **Software Development Methodologies**: Agile, Scrum, Waterfall, SDLC
 - **Other Skills**: JIRA, Data Structures and Algorithms, Problem-Solving and Critical Thinking
