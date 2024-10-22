@@ -39,14 +39,14 @@ Here are some of the projects I've worked on that showcase my skills and capabil
 
 ## Technical Skills
 
-- **Programming Languages**: Java, Python, C/C++, SQL, JavaScript, HTML5/CSS3
-- **Frameworks**: ReactJS, Flask, Spring Boot
+- **Programming Languages**: Java, C/C++, SQL, JavaScript, Python, HTML5/CSS3, TypeScript
+- **Frameworks**: ReactJS, Flask, Spring Boot, RESTful APIs, Next.js
 - **Testing and Quality Assurance**: JUnit, Postman, Swagger, Mockito, Unit Testing
-- **Developer Tools**: Git, Docker, VS Code, Visual Studio, Google Colab, IntelliJ, Eclipse, Wix Studio
+- **Developer Tools**: Azure, Git, GitHub, Docker, Visual Studio, Google Colab, IntelliJ, Eclipse, Wix Studio
 - **Operating System**: MacOS, Windows, Linux
 - **Software Development Methodologies**: Agile, Scrum, Waterfall, SDLC
-- **Other Skills**: JIRA, Data Structures and Algorithms, Problem-Solving and Critical Thinking
-- **Soft Skills:**: Communication and Presentation Skills, Code Review and Quality Assurance
+- **Other Skills**: JIRA, Data Structures and Algorithms, Algorithm Design
+- **Soft Skills:**: Communication and Presentation Skills, Team Collaboration, Problem-Solving
 
 ## Contact Me
 
