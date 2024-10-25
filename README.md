@@ -6,7 +6,7 @@
 
 I am Pranideep Reddy Nayaki, a Software Developer with a Master of Science in Computer Science from Kent State University. Experienced and results-driven Full-Stack Developer with 3 years of expertise in designing, developing, and delivering user-centric web applications. Demonstrated ability to build high-performing web applications and e-commerce platforms, significantly contributing to $5M in annual revenue. Proficient in Java, Spring Boot, JavaScript, and React, with robust experience in Agile methodologies and CI/CD pipelines. Strong background in MySQL and recognized for analytical problem-solving skills. Proven track record of collaborating with cross-functional teams to deliver scalable and robust solutions that exceed client expectations.
 
-For a more detailed overview of my professional journey, please feel free to download my resume [here](https://drive.google.com/file/d/1xG7g3Tup4GqS4yESvIK_uEDM_dtPAUFg/view?usp=drive_link).
+For a more detailed overview of my professional journey, please feel free to download my resume [here](https://drive.google.com/file/d/1pIceldnLDFgx7m63F890Mg6dQp-b6UNE/view?usp=drive_link).
 
 ## My Recent Projects
 
@@ -39,7 +39,7 @@ Here are some of the projects I've worked on that showcase my skills and capabil
 
 ## Technical Skills
 
-- **Programming Languages**: Java, C/C++, SQL, JavaScript, Python, HTML5/CSS3, TypeScript
+- **Programming Languages**: Java, C/C++, SQL, JavaScript, Python, HTML5/CSS3, TypeScript, JSP
 - **Frameworks**: ReactJS, Flask, Spring Boot, RESTful APIs, Next.js
 - **Testing and Quality Assurance**: JUnit, Postman, Swagger, Mockito, Unit Testing
 - **Developer Tools**: Azure, Git, GitHub, Docker, Visual Studio, Google Colab, IntelliJ, Eclipse, Wix Studio
