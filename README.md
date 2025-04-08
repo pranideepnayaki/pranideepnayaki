@@ -29,17 +29,6 @@ Here are some of the projects I've worked on that showcase my skills and capabil
 - **Description**: Developed a dynamic and responsive college website. It includes sections for home, about, academics, admissions, and contact, providing a comprehensive overview of the college.
 - **Technologies**: HTML, PHP, CSS, JavaScript
 
-## Technical Skills
-
-- **Programming Languages**: Java, C/C++, SQL, JavaScript, Python, HTML5/CSS3, TypeScript, JSP
-- **Frameworks**: ReactJS, Flask, Spring Boot, RESTful APIs, Next.js
-- **Testing and Quality Assurance**: JUnit, Postman, Swagger, Mockito, Unit Testing
-- **Developer Tools**: Azure, AWS, Git, GitHub, Docker, Visual Studio, Google Colab, IntelliJ, Eclipse, Wix Studio
-- **Operating System**: MacOS, Windows, Linux
-- **Software Development Methodologies**: Agile, Scrum, Waterfall, SDLC
-- **Other Skills**: JIRA, Data Structures and Algorithms, Algorithm Design
-- **Soft Skills:**: Communication and Presentation Skills, Team Collaboration, Problem-Solving
-
 ## Contact Me
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
