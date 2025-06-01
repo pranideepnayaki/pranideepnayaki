@@ -25,7 +25,7 @@ Here are some of the projects I've worked on that showcase my skills and capabil
 ### [Recipe Finder Application](https://github.com/pranideepnayaki/forkify-food-app)
 
 - **Description**: Developed a dynamic recipe app with responsive design. Users can search for recipes, view detailed instructions, adjust servings, and bookmark favorites. Integrated an external API for recipe data. This project showcases my skills in front-end development, API integration, and creating user-friendly applications.
-- **Technologies**: SQL, HTML, CSS, JavaScript
+- **Technologies**: Java, SQL, HTML, CSS, JavaScript
 
 ### [Movie Recommendation](https://github.com/pranideepnayaki/Movie_Recommendation)
 
