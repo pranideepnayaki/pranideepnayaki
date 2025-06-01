@@ -1,6 +1,6 @@
-# Hello, I'm Pranideep Reddy Nayaki 👋
+# Hello, I'm Pranideep Reddy 👋
 
-## Software Engineer | Technology Enthusiast
+## Full Stack Developer | Technology Enthusiast
 
 ## About Me
 
