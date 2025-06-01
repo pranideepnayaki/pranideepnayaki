@@ -4,18 +4,19 @@
 
 ## About Me
 
-I am Pranideep Reddy Nayaki, a Software Developer with a Master of Science in Computer Science from Kent State University. Experienced and results-driven Full-Stack Developer with 5 years of expertise in designing, developing, and delivering user-centric web applications. Demonstrated ability to build high-performing web applications and e-commerce platforms, significantly contributing to $5M in annual revenue. Proficient in Java, Spring Boot, JavaScript, and React, with robust experience in Agile methodologies and CI/CD pipelines. Strong background in MySQL and recognized for analytical problem-solving skills. Proven track record of collaborating with cross-functional teams to deliver scalable and robust solutions that exceed client expectations.
+Dynamic Full Stack Developer with nearly 5 years of experience in the full software development lifecycle (SDLC), building scalable microservices using Spring Boot, React/Angular frontends, and AWS/Azure cloud solutions. Proven expertise in performance optimization, building system architecture, and database tuning that consistently enhances application reliability while reducing costs. Recognized as 'Engineer of the Quarter' by the Abbott development team in Q3 2022 for exceptional contributions to system performance and cross-functional delivery.
 
 ## Technical Skills
 
-- **Programming Languages**: Java, C/C++, SQL, JavaScript, Python, HTML5/CSS3, TypeScript, JSP
-- **Frameworks**: ReactJS, Flask, Spring Boot, RESTful APIs, Next.js
-- **Testing and Quality Assurance**: JUnit, Postman, Swagger, Mockito, Unit Testing
-- **Developer Tools**: Azure, AWS, Git, GitHub, Docker, Visual Studio, Google Colab, IntelliJ, Eclipse, Wix Studio
-- **Operating System**: MacOS, Windows, Linux
-- **Software Development Methodologies**: Agile, Scrum, Waterfall, SDLC
-- **Other Skills**: JIRA, Data Structures and Algorithms, Algorithm Design
-- **Soft Skills:**: Communication and Presentation Skills, Team Collaboration, Problem-Solving
+- **Programming Languages**:  C, C++, Java, JavaScript, Python, TypeScript, HTML, CSS, PHP
+- **Frameworks**: Spring Boot, Spring MVC, Hibernate, JPA, React.js, Angular, Express, Redux, Bootstrap, RESTful APIs, 
+SOAP, Microservices, Node.js, GraphQL, jQuery, Vue.js, Next.js, XML 
+- **Cloud & DevOps**:  AWS, Azure, Docker, Kubernetes, Jenkins, Terraform
+- **Databases**: Oracle, MySQL, PostgreSQL, MongoDB, Cassandra
+- **Messaging & Caching**: Apache Kafka, RabbitMQ, ActiveMQ, Redis
+- **Testing & QA**: JUnit, Mockito, Selenium, Jasmine, Karma, Postman, Cucumber, Cypress
+- **Version Control & Build Tools**: Git, GitHub, Bitbucket, GitLab, Maven, Gradle, JSON
+- **Development Practices**: Agile (Scrum, Kanban), Test-Driven Development (TDD), Continuous Integration & Deployment, Jira 
 
 ## My Recent Projects
 
