@@ -4,7 +4,7 @@
 
 ## About Me
 
-Dynamic Full Stack Developer with nearly 5 years of experience in the full software development lifecycle (SDLC), building scalable microservices using Spring Boot, React/Angular frontends, and AWS/Azure cloud solutions. Proven expertise in performance optimization, building system architecture, and database tuning that consistently enhances application reliability while reducing costs. Recognized as 'Engineer of the Quarter' by the Abbott development team in Q3 2022 for exceptional contributions to system performance and cross-functional delivery.
+Dynamic Full Stack Developer with experience in the full software development lifecycle (SDLC), building scalable microservices using Spring Boot, React/Angular frontends, and AWS/Azure cloud solutions. Proven expertise in performance optimization, building system architecture, and database tuning that consistently enhances application reliability while reducing costs. Recognized as 'Engineer of the Quarter' by the Abbott development team in Q3 2022 for exceptional contributions to system performance and cross-functional delivery.
 
 ## Technical Skills
 
