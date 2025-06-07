@@ -51,6 +51,6 @@ Here are some of the projects I've worked on that showcase my skills and capabil
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.pranideepreddy1999@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranideep30@gmail.com)
 
 Thank you for visiting my GitHub portfolio!
