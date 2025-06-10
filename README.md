@@ -1,4 +1,4 @@
-# Hello, I'm Pranideep R 👋
+# Hello, I'm Pranideep N 👋
 
 ## Full Stack Developer | Technology Enthusiast
 
