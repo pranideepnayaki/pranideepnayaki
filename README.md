@@ -4,19 +4,20 @@
 
 ## About Me
 
-Dynamic Full Stack Developer with 5 years of experience in the full software development lifecycle (SDLC), building scalable microservices using Spring Boot, React/Angular frontends, and AWS/Azure cloud solutions. Proven expertise in performance optimization, building system architecture, and database tuning that consistently enhances application reliability while reducing costs. Recognized as 'Engineer of the Quarter' by the Abbott development team in Q3 2022 for exceptional contributions to system performance and cross-functional delivery.
+Dynamic Full Stack Developer with 5+ years of experience in the full software development lifecycle (SDLC), building scalable microservices using Spring Boot, React/Angular frontends, and AWS/Azure cloud solutions. Proven expertise in performance optimization, building system architecture, and database tuning that consistently enhances application reliability while reducing costs.
 
 ## Technical Skills
 
-- **Programming Languages**:  C, C++, Java, JavaScript, Python, TypeScript, HTML, CSS, PHP
-- **Frameworks**: Spring Boot, Spring MVC, Hibernate, JPA, React.js, Angular, Express, Redux, Bootstrap, RESTful APIs, 
-SOAP, Microservices, Node.js, GraphQL, jQuery, Vue.js, Next.js, XML 
-- **Cloud & DevOps**:  AWS, Azure, Docker, Kubernetes, Jenkins, Terraform
-- **Databases**: Oracle, MySQL, PostgreSQL, MongoDB, Cassandra
-- **Messaging & Caching**: Apache Kafka, RabbitMQ, ActiveMQ, Redis
-- **Testing & QA**: JUnit, Mockito, Selenium, Jasmine, Karma, Postman, Cucumber, Cypress
-- **Version Control & Build Tools**: Git, GitHub, Bitbucket, GitLab, Maven, Gradle, JSON
-- **Development Practices**: Agile (Scrum, Kanban), Test-Driven Development (TDD), Continuous Integration & Deployment, Jira 
+- **Methodologies**:  SDLC, Agile (Scrum, Kanban), Waterfall, CI/CD, Jira
+- **Programming Languages**:  Java (Java 8, Java 11), C++, Python, JavaScript (ES6+), TypeScript, HTML5/CSS3, SQL 
+- **Front-end**:  React.js, Angular, Vue.js, Next.js, Node.js, Bootstrap, CSS Frameworks, jQuery, AJAX, JSON
+- **Back-end**: Spring Framework (Spring Boot, Spring MVC, Spring Security), RESTful API, GraphQL, SOAP, Apache Kafka, RabbitMQ, ActiveMQ, Hibernate, Express
+- **Databases**: MySQL, PostgreSQL, MongoDB, Oracle, Cassandra, NoSQL, Redis
+- **Cloud Technologies**: AWS (EC2, S3, RDS, Elastic Load Balancing), Azure (Blob Storage, Azure SQL Database), GCP
+- **DevOps Tools**:  Docker, Kubernetes, Terraform, Jenkins
+- **Build Tools & Version Control**: Maven, Gradle, Git, GitHub, GitLab, Bitbucket
+- **Web & Application Servers**:  Apache Tomcat, WebSphere Application Server, BEA WebLogic
+- **AI Tools**: GitHub Copilot, ChatGPT, Claude, OpenAI APIs, Prompt Engineering 
 
 ## My Recent Projects
 
