@@ -4,7 +4,7 @@
 
 ## About Me
 
-Dynamic Full Stack Developer with 5+ years of experience in the full software development lifecycle (SDLC), building scalable microservices using Spring Boot, React/Angular frontends, and AWS/Azure cloud solutions. Proven expertise in performance optimization, building system architecture, and database tuning that consistently enhances application reliability while reducing costs.
+Dynamic Software Engineer with 5+ years of experience in the full software development lifecycle (SDLC), building scalable microservices using Spring Boot, React/Angular frontends, and AWS/Azure cloud solutions. Proven expertise in performance optimization, building system architecture, and database tuning that consistently enhances application reliability while reducing costs.
 
 ## Technical Skills
 
