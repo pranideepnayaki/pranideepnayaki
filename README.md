@@ -1,6 +1,6 @@
 # Hello, I'm Pranideep Reddy 👋
 
-## Full Stack Developer | Technology Enthusiast
+## Software Engineer | Technology Enthusiast
 
 ## About Me
 
